@@ -1,4 +1,4 @@
-<h1> Notes App </h1>
+<h1> Hangman </h1>
 This project was developed during Andrew Mead's Javascript Bootcamp course at Udemy. 
 <br>
 To run the project, you need to download the project. Inside Visual Studio Code on terminal or your operating system terminal. 
